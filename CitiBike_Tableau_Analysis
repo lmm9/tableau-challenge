@@ -1,0 +1,11 @@
+CitiBike Tableau Analysis
+
+Laura Michael
+
+I started my analysis by creating a map of the starting and ending stations and the number of trips started and ended at each station in November 2020.  I then decided to look at the percetentage of female riders for each.  I immediately noticed that while the unknown gender of users was somewhat small, in a few instances the percentage of unknown users was equal to the number of female users. 
+
+Female ridership for CitiBike is steady at approximately 23-29% at the most popular stations, but ranges from 6% to 35% at the stations with less trips.
+
+The average age of the female CitiBike user is 28 to 49 years with more popular stations averaging in the mid-thirties and less popular stations having averages at the ends of the spectrum.  
+
+Next, I wanted to see if time of day influenced the average age of the female CitiBike user.  I was surprised to find that neither the minimum age, maximum age nor average age fluctuated much for women CitiBike users starting trips except for the 3AM hour when the maximum and average age dipped into the mid-twenties and 4AM hour when the average age peaked in the lower forties.  I was pleasantly surprised to find that the maximum age of the female rider stayed in the low seventies for most of the working hours of the day.
